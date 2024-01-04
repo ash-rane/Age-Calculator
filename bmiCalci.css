@@ -1,0 +1,72 @@
+body{
+    background-image: url("images/bck.jpeg");
+    background-size: cover;
+}
+
+.mainBox{
+    border-radius: 10px;
+    height: 350px;
+    width: 360px;
+    background-color: #13171d;
+    border: 2px solid rgb(21, 172, 172);
+    margin-left: 490px;
+    margin-top: 100px;
+} 
+div{
+display: inline-block;
+margin: 2px;
+margin-left: 5px;
+padding: 2px;
+}
+
+h1{
+    color: rgb(37, 199, 199);
+    margin-left: 75px;
+}
+h2{
+    margin-left: 110px;
+    color: #ddd5d5;
+}
+#btn1{
+    margin-top: 10px;
+    margin-left: 70px; 
+    border-radius: 5px;
+    border: 2px solid rgb(20,124,124);  
+     background-color: rgb(20, 124, 124);
+     font-size: 18px;
+     color: #f0e8e8;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     width: 220px;
+    height: 30px;
+}
+#btn2{
+    margin-top: 10px;
+    margin-left: 70px;
+    border-radius: 5px;
+    border: 2px solid rgb(20,124,124);  
+    background-color: rgb(20, 124, 124);
+    font-size: 18px;
+    color: #f0e8e8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 220px;
+    height: 30px;
+}
+#heightSpan,#weightSpan{
+    margin-left: 40px;
+    color: #d8d0d0;
+    background-color: #343b44;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 7px;
+}
+#inputBox1,#inputBox2{
+    margin: 5px;
+    height: 40px;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 22px;
+    border-radius: 7px;
+    font-weight: bold;
+    background-color: #ced5dd;
+    text-align: center;
+    font-weight: bold;
+}
